@@ -49,12 +49,12 @@
         <repository>
             <id>wondernect-releases</id>
             <name>wondernect nexus releases repository</name>
-            <url>http://117.34.115.16:8081/repository/wondernect-releases/</url>
+            <url>http://119.23.9.49:8112/repository/wondernect-releases/</url>
         </repository>
         <snapshotRepository>
             <id>wondernect-snapshots</id>
             <name>wondernect nexus snapshots repository</name>
-            <url>http://117.34.115.16:8081/repository/wondernect-snapshorts/</url>
+            <url>http://119.23.9.49:8112/repository/wondernect-snapshorts/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>

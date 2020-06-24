@@ -22,10 +22,24 @@
 
     <dependencyManagement>
         <dependencies>
+            <!-- file-dto -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>file-dto</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
             <!-- file -->
             <dependency>
                 <groupId>com.wondernect.stars</groupId>
                 <artifactId>file</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- file-rest -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>file-rest</artifactId>
                 <version>${wondernect.stars.version}</version>
             </dependency>
 

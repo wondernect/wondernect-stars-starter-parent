@@ -43,10 +43,24 @@
                 <version>${wondernect.stars.version}</version>
             </dependency>
 
+            <!-- session-dto -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>session-dto</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
             <!-- session -->
             <dependency>
                 <groupId>com.wondernect.stars</groupId>
                 <artifactId>session</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- session-rest -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>session-rest</artifactId>
                 <version>${wondernect.stars.version}</version>
             </dependency>
 
@@ -68,6 +82,27 @@
             <dependency>
                 <groupId>com.wondernect.stars</groupId>
                 <artifactId>rbac-rest</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- user-dto -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>user-dto</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- user -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>user</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- user-rest -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>user-rest</artifactId>
                 <version>${wondernect.stars.version}</version>
             </dependency>
         </dependencies>

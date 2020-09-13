@@ -133,6 +133,34 @@
                 <artifactId>user-server-sdk</artifactId>
                 <version>${wondernect.stars.version}</version>
             </dependency>
+
+            <!-- app-dto -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>app-dto</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- app -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>app</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- app-rest -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>app-rest</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- app-server-sdk -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>app-server-sdk</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 

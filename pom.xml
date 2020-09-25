@@ -36,13 +36,6 @@
                 <version>${wondernect.stars.version}</version>
             </dependency>
 
-            <!-- file-rest -->
-            <dependency>
-                <groupId>com.wondernect.stars</groupId>
-                <artifactId>file-rest</artifactId>
-                <version>${wondernect.stars.version}</version>
-            </dependency>
-
             <!-- file-server-sdk -->
             <dependency>
                 <groupId>com.wondernect.stars</groupId>
@@ -61,13 +54,6 @@
             <dependency>
                 <groupId>com.wondernect.stars</groupId>
                 <artifactId>session</artifactId>
-                <version>${wondernect.stars.version}</version>
-            </dependency>
-
-            <!-- session-rest -->
-            <dependency>
-                <groupId>com.wondernect.stars</groupId>
-                <artifactId>session-rest</artifactId>
                 <version>${wondernect.stars.version}</version>
             </dependency>
 
@@ -92,13 +78,6 @@
                 <version>${wondernect.stars.version}</version>
             </dependency>
 
-            <!-- rbac-rest -->
-            <dependency>
-                <groupId>com.wondernect.stars</groupId>
-                <artifactId>rbac-rest</artifactId>
-                <version>${wondernect.stars.version}</version>
-            </dependency>
-
             <!-- rbac-server-sdk -->
             <dependency>
                 <groupId>com.wondernect.stars</groupId>
@@ -120,13 +99,6 @@
                 <version>${wondernect.stars.version}</version>
             </dependency>
 
-            <!-- user-rest -->
-            <dependency>
-                <groupId>com.wondernect.stars</groupId>
-                <artifactId>user-rest</artifactId>
-                <version>${wondernect.stars.version}</version>
-            </dependency>
-
             <!-- user-server-sdk -->
             <dependency>
                 <groupId>com.wondernect.stars</groupId>
@@ -145,13 +117,6 @@
             <dependency>
                 <groupId>com.wondernect.stars</groupId>
                 <artifactId>app</artifactId>
-                <version>${wondernect.stars.version}</version>
-            </dependency>
-
-            <!-- app-rest -->
-            <dependency>
-                <groupId>com.wondernect.stars</groupId>
-                <artifactId>app-rest</artifactId>
                 <version>${wondernect.stars.version}</version>
             </dependency>
 

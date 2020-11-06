@@ -126,6 +126,27 @@
                 <artifactId>app-server-sdk</artifactId>
                 <version>${wondernect.stars.version}</version>
             </dependency>
+
+            <!-- database-dto -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>database-dto</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- app -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>database</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- app-server-sdk -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>database-server-sdk</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 

@@ -134,17 +134,38 @@
                 <version>${wondernect.stars.version}</version>
             </dependency>
 
-            <!-- app -->
+            <!-- database -->
             <dependency>
                 <groupId>com.wondernect.stars</groupId>
                 <artifactId>database</artifactId>
                 <version>${wondernect.stars.version}</version>
             </dependency>
 
-            <!-- app-server-sdk -->
+            <!-- database-server-sdk -->
             <dependency>
                 <groupId>com.wondernect.stars</groupId>
                 <artifactId>database-server-sdk</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- office-dto -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>office-dto</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- office -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>office</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- office-server-sdk -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>office-server-sdk</artifactId>
                 <version>${wondernect.stars.version}</version>
             </dependency>
         </dependencies>

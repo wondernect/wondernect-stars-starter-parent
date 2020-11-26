@@ -168,6 +168,27 @@
                 <artifactId>office-server-sdk</artifactId>
                 <version>${wondernect.stars.version}</version>
             </dependency>
+
+            <!-- mail-dto -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>mail-dto</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- mail -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>mail</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- mail-server-sdk -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>mail-server-sdk</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 

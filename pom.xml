@@ -210,6 +210,27 @@
                 <artifactId>logger-server-sdk</artifactId>
                 <version>${wondernect.stars.version}</version>
             </dependency>
+
+            <!-- sms-dto -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>sms-dto</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- sms -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>sms</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
+
+            <!-- sms-server-sdk -->
+            <dependency>
+                <groupId>com.wondernect.stars</groupId>
+                <artifactId>sms-server-sdk</artifactId>
+                <version>${wondernect.stars.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
